@@ -13,21 +13,9 @@ A high-performance, event-driven Limit Order Book (LOB) simulator with live Bina
 
 ## Demo
 
-```
-Live BTC-USDT Order Book
-┌─────────────┬──────────┬─────────────┬──────────┐
-│  Ask Price  │  Ask Qty │   Bid Price │  Bid Qty │
-├─────────────┼──────────┼─────────────┼──────────┤
-│  76,681.3   │ 218.2758 │   76,681.3  │  97.3514 │
-│  76,682.0   │   0.0528 │   76,681.2  │   0.0009 │
-└─────────────┴──────────┴─────────────┴──────────┘
+![Live Dashboard](docs/dashboard.png)
 
-Market Stats
-Best Bid  :   76,681.3
-Best Ask  :   76,681.3
-Spread    :        0.0
-Updates/s :        9.4
-```
+*Live BTC-USDT order book with real Binance data — 10 updates/sec*
 
 ## Project Structure
 
